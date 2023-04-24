@@ -64,7 +64,7 @@ $ python test.py -net path_to_fx_model_file
 Visit [netspresso.ai](https://netspresso.ai/) and compress the model. You can get step by step guide from [here](https://docs.netspresso.ai/docs/mc-step1-prepare-model).
 
 ### 7. fine-tune the model
-You may need to set learning rate using arg -lr
+You may need to set learning rate using ```-lr```
 ```bash
 $ python train.py -net path_to_compressed_model_file -lr 0.001
 ```
