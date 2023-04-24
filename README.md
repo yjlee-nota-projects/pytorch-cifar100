@@ -1,4 +1,4 @@
-# Pytorch-cifar100
+# Pytorch-cifar100_nota
 
 practice on cifar100 using pytorch
 
@@ -14,7 +14,7 @@ This is my experiment eviroument
 
 ### 1. enter directory
 ```bash
-$ cd pytorch-cifar100
+$ cd pytorch-cifar100_nota
 ```
 
 ### 2. dataset
